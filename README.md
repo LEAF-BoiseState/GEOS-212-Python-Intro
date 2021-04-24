@@ -1,6 +1,6 @@
 # An Introduction to Python with Google Colab
-## GEOS 212: Water in the West
-## Spring 2021
+### GEOS 212: Water in the West
+### Spring 2021
 
 This repository contains some Jupyter notebooks that were developed in Google Colab in order to provide sophomore-level students an early introduction to scientific programming with Python. The class, Water in the West, is a Geoscience class that introduces them to the water sciences. Introductory workshops, adopting the the Software Carpentry style of narrated live coding, occurred over two 75 minute class sessions in April 2021 via zoom. 
 
